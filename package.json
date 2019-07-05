@@ -7,6 +7,9 @@
   "author": "luichooy <luichooy@163.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node src/app.js"
+  },
   "dependencies": {
     "koa": "^2.7.0"
   }
