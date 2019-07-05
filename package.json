@@ -1,0 +1,13 @@
+{
+  "name": "koa2-note-luichooy",
+  "version": "1.0.0",
+  "description": "Practice koa2 with koa2-note",
+  "main": "index.js",
+  "repository": "https://github.com/luichooy/koa2-note-luichooy.git",
+  "author": "luichooy <luichooy@163.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
